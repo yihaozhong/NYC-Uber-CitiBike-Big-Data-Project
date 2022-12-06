@@ -9,7 +9,7 @@ Professor:  Ann Malavet
 
     - TLC websit NY government https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
     - Data set usage PDF docs: https://www.nyc.gov/assets/tlc/downloads/pdf/trip_record_user_guide.pdf 
-
+    - Data Scehma: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_hvfhs.pdf 
 
 - ### Files locations
     - `/user/yz7654/final_project/input` in HDFS
